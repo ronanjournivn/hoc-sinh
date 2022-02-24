@@ -1,0 +1,4 @@
+"operator-assignment": 0,
+    "padded-blocks": 0,
+    "prefer-object-spread/prefer-object-spread": 2,
+    "prettier/prettier": "error",
